@@ -47,5 +47,6 @@ Matériels,             FireBox (WatchGuard), Netgear, Sophos XG Firewall, Cisco
 
 ACL : Liste de contrôle d’accès (règles de filtrage).
 Stateful Inspection : Filtrage dynamique avec mémoire des connexions.
+
 Proxy : Intermédiaire qui filtre les requêtes applicatives.
 DoS : Attaque par déni de service (le stateful aide à s’en protéger).
